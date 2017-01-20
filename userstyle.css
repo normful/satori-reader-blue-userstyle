@@ -53,6 +53,11 @@ h2,
     color: inherit;
 }
 
+/* Article: tooltip heading */
+.tooltip-content .heading {
+    background-color: #0078e7;
+}
+
 /* Preferences: Headings */
 .preferences h2 {
     color: #0078e7;
