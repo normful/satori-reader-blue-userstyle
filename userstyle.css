@@ -8,6 +8,16 @@
     border-bottom: none;
 }
 
+/* Top nav bar links */
+#nav-large .separator.disabled,
+#nav-large a.disabled {
+    color: #FFFFFF !important;
+}
+#nav-large a.disabled:hover.disabled,
+#nav-large .separator:hover.disabled {
+    border-color: #FFFFFF !important;
+}
+
 /* Article series list: Coming Soon! tile */
 .tile-coming-soon {
     background-color: #0078e7;
@@ -20,7 +30,8 @@ h2,
 .article-title,
 .series-detail-grid-item .series-detail-grid-right .title a,
 .article-instance-list-item-title a,
-.article-set-list-item .title a {
+.article-set-list-item .title a,
+#pro-content-message h3 {
     color: #1E90FF;
 }
 
