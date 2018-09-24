@@ -3,7 +3,8 @@
 /* Top nav bar */
 #nav,
 #nav-large,
-#nav-large-user {
+#nav-large-user,
+#nav-large #nav-large-user {
     background-color: #0078e7;
     border-bottom: none;
 }
