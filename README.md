@@ -5,3 +5,6 @@ CSS userstyle for [Satori Reader](https://www.satorireader.com) to get rid of th
 ## Installation
 
 Install with Stylish from <https://userstyles.org/styles/137908/satori-reader-blue>.
+
+
+
